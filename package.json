@@ -1,6 +1,6 @@
 {
-  "name": "hpub2-example",
-  "version": "0.0.0",
+  "name": "amway-hpub2-example-angular",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
